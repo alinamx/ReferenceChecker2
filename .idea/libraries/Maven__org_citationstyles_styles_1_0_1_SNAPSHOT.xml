@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.citationstyles:styles:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/citationstyles/styles/1.0.1-SNAPSHOT/styles-1.0.1-20170910.200350-974.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/citationstyles/styles/1.0.1-SNAPSHOT/styles-1.0.1-20170910.200350-974-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/citationstyles/styles/1.0.1-SNAPSHOT/styles-1.0.1-20170910.200350-974-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
